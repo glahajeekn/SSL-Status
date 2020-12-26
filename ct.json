@@ -1,5 +1,4 @@
-[
-    {
+[ {
     "domain": "blog.slqwq.cn",
     "subject": "C=US; ST=CA; O=Let's Encrypt;\nCN= Let's Encrypt Authority X3",
     "start": "2020-10-21 00:00:00 GMT",
@@ -9,8 +8,7 @@
     "statuscolor": "success",
     "check": "2020-12-26 00:00:05",
     "remain": "250"
-},
-    {
+}, {
     "domain": "slqwq.cn",
     "subject": "C=US; ST=CA; O=Let's Encrypt; \nCN=R3",
     "start": "2020-12-12 00:00:00 GMT",
@@ -20,8 +18,7 @@
     "statuscolor": "success",
     "check": "2020-12-26 06:23:05",
     "remain": "250"
-},
-    {
+}, {
     "domain": "www.slqwq.cn",
     "subject": "C=US; ST=CA; O=Let's Encrypt; \nCN=R3",
     "start": "2020-12-12 00:00:00 GMT",
@@ -31,8 +28,7 @@
     "statuscolor": "success",
     "check": "2020-12-26 06:23:05",
     "remain": "250"
-}
-    {
+}, {
     "domain": "ssl.slqwq.cn",
     "subject": "CN=ssl.slqwq.cn",
     "start": "2020-11-03 00:33:39 GMT",
